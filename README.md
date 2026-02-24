@@ -68,8 +68,8 @@ The waveform shows correct transitions between `Red → Green → Yellow → Red
 
 ## 🙋 Author
 
-**Pranjal Verma**  
-B.Tech, Electrical Engineering  
+**Aryan Kannaujiya**  
+PhD, Electrical Engineering (VLSI Design)  
 IIT Jammu  
 
 ---
